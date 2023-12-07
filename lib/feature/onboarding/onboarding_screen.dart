@@ -16,6 +16,7 @@ class OnBoardingScreen extends StatelessWidget {
           padding: EdgeInsets.only(top: 70.h,bottom: 30.h),
           child:  Column(
             children: [
+
               const CarViewLogoWidget(),
               SizedBox(height: 50.h,),
               const CarImageOnBoarding(),
