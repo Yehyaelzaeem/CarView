@@ -1,16 +1,2 @@
-# carview
-
-An application that shows all the details of modern cars
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- added onBoarding Screen
+- ![393933393_1340632236620602_6136321708213310406_n](https://github.com/Yehyaelzaeem/CarView/assets/100237058/43d150b9-c84a-424f-8e58-3d6d07b4321f)
